@@ -1,0 +1,16 @@
+body{
+  text-align:center;
+}
+
+table {
+  margin: 0 auto;
+}
+
+table, th, td {
+  border: solid 1px black;
+  border-collapse: collapse;
+}
+
+label{
+  cursor: pointer;
+}
